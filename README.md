@@ -1,6 +1,6 @@
 # QuantumGateVisualizer
 
-QuantumGateVisualizer is an interactive Jupyter Notebook project for visualizing quantum gates and their operations. It is designed for educational purposes and allows users to explore the fundamentals of quantum computing through visual aids.
+QuantumGateVisualizer is an interactive project for visualizing quantum gates and their operations. It is designed for educational purposes and allows users to explore the fundamentals of quantum computing through visual aids.
 
 ## Features
 
